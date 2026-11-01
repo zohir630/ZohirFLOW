@@ -98,7 +98,7 @@ android {
         create("github") {
             dimension = "version"
             isDefault = true
-            buildConfigField("Boolean", "UPDATER_ENABLED", "true")
+            buildConfigField("Boolean", "UPDATER_ENABLED", "false")
             buildConfigField("String", "DISCORD_APPLICATION_ID", "\"1526515771021328514\"")
         }
         create("foss") {

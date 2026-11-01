@@ -214,7 +214,7 @@ class LanSync
                 val lanKey = purposeKey(session.currentKey(), session.group, session.state.epoch, Purpose.LAN)
                 val server = WsServer(SESSION_PATH) { connection -> accept(connection) }
                 val discovery = LanDiscovery(context)
-                val name = "Flow-" + SyncBytes.toHex(SyncCrypto.randomBytes(2))
+                val name = "Zohir-" + SyncBytes.toHex(SyncCrypto.randomBytes(2))
                 names += name
                 try {
                     val port = server.listenOnLastPort(context)
