@@ -1,35 +1,35 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://assets.flow-tube.org/v1/banners/flow-android-dark.svg">
-    <img alt="Flow. Privacy-first YouTube and YouTube Music for Android, with recommendations that stay on your phone." src="https://assets.flow-tube.org/v1/banners/flow-android-light.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://assets.Zohir-tube.org/v1/banners/Zohir-android-dark.svg">
+    <img alt="Zohir. Privacy-first YouTube and YouTube Music for Android, with recommendations that stay on your phone." src="https://assets.Zohir-tube.org/v1/banners/Zohir-android-light.svg" width="100%">
   </picture>
 
   <h3>A privacy-respecting YouTube and YouTube Music client for Android with a local recommendation engine.</h3>
 
   <p>
-  <a href="https://github.com/Flow-Tube/Flow/releases/latest"><picture><source media="(prefers-color-scheme: dark)" srcset="https://assets.flow-tube.org/v1/badges/pill/get-github-dark.svg"><img alt="Get it on GitHub" src="https://assets.flow-tube.org/v1/badges/pill/get-github-light.svg" height="60"></picture></a>
-  <a href="https://apt.izzysoft.de/packages/io.github.aedev.flow"><picture><source media="(prefers-color-scheme: dark)" srcset="https://assets.flow-tube.org/v1/badges/pill/get-izzyondroid-dark.svg"><img alt="Get it on IzzyOnDroid" src="https://assets.flow-tube.org/v1/badges/pill/get-izzyondroid-light.svg" height="60"></picture></a>
-  <a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/Flow-Tube/Flow/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://assets.flow-tube.org/v1/badges/pill/get-obtainium-dark.svg"><img alt="Get it on Obtainium" src="https://assets.flow-tube.org/v1/badges/pill/get-obtainium-light.svg" height="60"></picture></a>
-  <a href="https://nightly.link/Flow-Tube/Flow/workflows/build/main/flow-nightly-apk.zip"><picture><source media="(prefers-color-scheme: dark)" srcset="https://assets.flow-tube.org/v1/badges/pill/get-nightly-dark.svg"><img alt="Try the Nightly build" src="https://assets.flow-tube.org/v1/badges/pill/get-nightly-light.svg" height="60"></picture></a>
+  <a href="https://github.com/Zohir-Tube/Zohir/releases/latest"><picture><source media="(prefers-color-scheme: dark)" srcset="https://assets.Zohir-tube.org/v1/badges/pill/get-github-dark.svg"><img alt="Get it on GitHub" src="https://assets.Zohir-tube.org/v1/badges/pill/get-github-light.svg" height="60"></picture></a>
+  <a href="https://apt.izzysoft.de/packages/io.github.aedev.Zohir"><picture><source media="(prefers-color-scheme: dark)" srcset="https://assets.Zohir-tube.org/v1/badges/pill/get-izzyondroid-dark.svg"><img alt="Get it on IzzyOnDroid" src="https://assets.Zohir-tube.org/v1/badges/pill/get-izzyondroid-light.svg" height="60"></picture></a>
+  <a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/Zohir-Tube/Zohir/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://assets.Zohir-tube.org/v1/badges/pill/get-obtainium-dark.svg"><img alt="Get it on Obtainium" src="https://assets.Zohir-tube.org/v1/badges/pill/get-obtainium-light.svg" height="60"></picture></a>
+  <a href="https://nightly.link/Zohir-Tube/Zohir/workZohirs/build/main/Zohir-nightly-apk.zip"><picture><source media="(prefers-color-scheme: dark)" srcset="https://assets.Zohir-tube.org/v1/badges/pill/get-nightly-dark.svg"><img alt="Try the Nightly build" src="https://assets.Zohir-tube.org/v1/badges/pill/get-nightly-light.svg" height="60"></picture></a>
   </p>
   <p>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://assets.flow-tube.org/v1/badges/split/android-dark.svg"><img alt="Android 8.0+" src="https://assets.flow-tube.org/v1/badges/split/android-light.svg" height="32"></picture>
-  <a href="https://github.com/Flow-Tube/Flow/releases/latest"><picture><source media="(prefers-color-scheme: dark)" srcset="https://assets.flow-tube.org/v1/badges/split/release-dark.svg"><img alt="Latest release" src="https://assets.flow-tube.org/v1/badges/split/release-light.svg" height="32"></picture></a>
-  <a href="https://github.com/Flow-Tube/Flow/releases"><picture><source media="(prefers-color-scheme: dark)" srcset="https://assets.flow-tube.org/v1/badges/split/downloads-dark.svg"><img alt="Downloads" src="https://assets.flow-tube.org/v1/badges/split/downloads-light.svg" height="32"></picture></a>
-  <a href="License"><picture><source media="(prefers-color-scheme: dark)" srcset="https://assets.flow-tube.org/v1/badges/split/license-dark.svg"><img alt="License: GPL-3.0" src="https://assets.flow-tube.org/v1/badges/split/license-light.svg" height="32"></picture></a>
-  <a href="#cert"><picture><source media="(prefers-color-scheme: dark)" srcset="https://assets.flow-tube.org/v1/badges/split/signed-dark.svg"><img alt="Signed: SHA-256 certificate" src="https://assets.flow-tube.org/v1/badges/split/signed-light.svg" height="32"></picture></a>
-  <a href="https://opencollective.com/flow-tube"><picture><source media="(prefers-color-scheme: dark)" srcset="https://assets.flow-tube.org/v1/badges/split/opencollective-dark.svg"><img alt="Open Collective backers" src="https://assets.flow-tube.org/v1/badges/split/opencollective-light.svg" height="32"></picture></a>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://assets.Zohir-tube.org/v1/badges/split/android-dark.svg"><img alt="Android 8.0+" src="https://assets.Zohir-tube.org/v1/badges/split/android-light.svg" height="32"></picture>
+  <a href="https://github.com/Zohir-Tube/Zohir/releases/latest"><picture><source media="(prefers-color-scheme: dark)" srcset="https://assets.Zohir-tube.org/v1/badges/split/release-dark.svg"><img alt="Latest release" src="https://assets.Zohir-tube.org/v1/badges/split/release-light.svg" height="32"></picture></a>
+  <a href="https://github.com/Zohir-Tube/Zohir/releases"><picture><source media="(prefers-color-scheme: dark)" srcset="https://assets.Zohir-tube.org/v1/badges/split/downloads-dark.svg"><img alt="Downloads" src="https://assets.Zohir-tube.org/v1/badges/split/downloads-light.svg" height="32"></picture></a>
+  <a href="License"><picture><source media="(prefers-color-scheme: dark)" srcset="https://assets.Zohir-tube.org/v1/badges/split/license-dark.svg"><img alt="License: GPL-3.0" src="https://assets.Zohir-tube.org/v1/badges/split/license-light.svg" height="32"></picture></a>
+  <a href="#cert"><picture><source media="(prefers-color-scheme: dark)" srcset="https://assets.Zohir-tube.org/v1/badges/split/signed-dark.svg"><img alt="Signed: SHA-256 certificate" src="https://assets.Zohir-tube.org/v1/badges/split/signed-light.svg" height="32"></picture></a>
+  <a href="https://opencollective.com/Zohir-tube"><picture><source media="(prefers-color-scheme: dark)" srcset="https://assets.Zohir-tube.org/v1/badges/split/opencollective-dark.svg"><img alt="Open Collective backers" src="https://assets.Zohir-tube.org/v1/badges/split/opencollective-light.svg" height="32"></picture></a>
   </p>
 
   <p>
-    Flow is a YouTube client built with Jetpack Compose and Material 3.<br>
-    It includes FlowNeuro, a recommendation engine that runs entirely on your device — no accounts, no tracking, no data leaves your phone.
+    Zohir is a YouTube client built with Jetpack Compose and Material 3.<br>
+    It includes ZohirNeuro, a recommendation engine that runs entirely on your device — no accounts, no tracking, no data leaves your phone.
   </p>
   
   <p>
-    <a href="https://github.com/Flow-Tube/Flow/releases"><b>Download APK</b></a> · 
-    <a href="https://github.com/Flow-Tube/Flow/wiki"><b>Documentation</b></a> · 
-    <a href="https://www.reddit.com/r/Flow_Official/"><b>Subreddit</b></a> · 
+    <a href="https://github.com/Zohir-Tube/Zohir/releases"><b>Download APK</b></a> · 
+    <a href="https://github.com/Zohir-Tube/Zohir/wiki"><b>Documentation</b></a> · 
+    <a href="https://www.reddit.com/r/Zohir_Official/"><b>Subreddit</b></a> · 
     <a href="#support--donations"><b>Donate</b></a> .
     <a href="#translate"><b>Translations</b></a>
   </p>
@@ -37,11 +37,11 @@
 
 ---
 
-## Why Flow?
+## Why Zohir?
 
 Most open-source YouTube clients give you playback but no way to discover new content. You either use the official app and get tracked, or you use an alternative and lose recommendations entirely.
 
-Flow gives you both. The recommendation engine learns what you like by analyzing your watch behavior locally. It never leaves your devices. You can inspect everything it knows about you, adjust it, or wipe it at any time.
+Zohir gives you both. The recommendation engine learns what you like by analyzing your watch behavior locally. It never leaves your devices. You can inspect everything it knows about you, adjust it, or wipe it at any time.
 
 ---
 
@@ -71,7 +71,7 @@ Flow gives you both. The recommendation engine learns what you like by analyzing
 - Fetches tracks from YouTube Music
 - Playback speed control for music playback
 
-### Recommendations (FlowNeuro Engine)
+### Recommendations (ZohirNeuro Engine)
 - Runs 100% on-device — no server, no telemetry, no account needed
 - Learns from what you watch, skip, like, dislike, search for, and how long you watch
 - Distinguishes weekday and weekend patterns, morning and night preferences
@@ -140,9 +140,9 @@ Flow gives you both. The recommendation engine learns what you like by analyzing
 ### Stable Release
 
 <div align="center">
-  <a href="https://github.com/Flow-Tube/Flow/releases/latest"><picture><source media="(prefers-color-scheme: dark)" srcset="https://assets.flow-tube.org/v1/badges/pill/get-github-dark.svg"><img alt="Get it on GitHub" src="https://assets.flow-tube.org/v1/badges/pill/get-github-light.svg" height="60"></picture></a>
-  <a href="https://apt.izzysoft.de/packages/io.github.aedev.flow"><picture><source media="(prefers-color-scheme: dark)" srcset="https://assets.flow-tube.org/v1/badges/pill/get-izzyondroid-dark.svg"><img alt="Get it on IzzyOnDroid" src="https://assets.flow-tube.org/v1/badges/pill/get-izzyondroid-light.svg" height="60"></picture></a>
-  <a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/Flow-Tube/Flow/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://assets.flow-tube.org/v1/badges/pill/get-obtainium-dark.svg"><img alt="Get it on Obtainium" src="https://assets.flow-tube.org/v1/badges/pill/get-obtainium-light.svg" height="60"></picture></a>
+  <a href="https://github.com/Zohir-Tube/Zohir/releases/latest"><picture><source media="(prefers-color-scheme: dark)" srcset="https://assets.Zohir-tube.org/v1/badges/pill/get-github-dark.svg"><img alt="Get it on GitHub" src="https://assets.Zohir-tube.org/v1/badges/pill/get-github-light.svg" height="60"></picture></a>
+  <a href="https://apt.izzysoft.de/packages/io.github.aedev.Zohir"><picture><source media="(prefers-color-scheme: dark)" srcset="https://assets.Zohir-tube.org/v1/badges/pill/get-izzyondroid-dark.svg"><img alt="Get it on IzzyOnDroid" src="https://assets.Zohir-tube.org/v1/badges/pill/get-izzyondroid-light.svg" height="60"></picture></a>
+  <a href="https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/Zohir-Tube/Zohir/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://assets.Zohir-tube.org/v1/badges/pill/get-obtainium-dark.svg"><img alt="Get it on Obtainium" src="https://assets.Zohir-tube.org/v1/badges/pill/get-obtainium-light.svg" height="60"></picture></a>
 </div>
 
 #### Which APK should I download?
@@ -151,11 +151,11 @@ Each release has six APKs: three device types, each in a GitHub build and a FOSS
 
 | Your device | GitHub build | FOSS build |
 | :--- | :--- | :--- |
-| Most phones and tablets (64-bit, `arm64-v8a`) | `flow-arm64-v8a.apk` | `flow-foss-arm64-v8a.apk` |
-| Older 32-bit phones (`armeabi-v7a`) | `flow-armeabi-v7a.apk` | `flow-foss-armeabi-v7a.apk` |
-| Any device (universal, larger download) | `flow.apk` | `flow-foss.apk` |
+| Most phones and tablets (64-bit, `arm64-v8a`) | `Zohir-arm64-v8a.apk` | `Zohir-foss-arm64-v8a.apk` |
+| Older 32-bit phones (`armeabi-v7a`) | `Zohir-armeabi-v7a.apk` | `Zohir-foss-armeabi-v7a.apk` |
+| Any device (universal, larger download) | `Zohir.apk` | `Zohir-foss.apk` |
 
-- **Not sure?** `flow-arm64-v8a.apk` works on almost every phone. `flow.apk` works on all of them.
+- **Not sure?** `Zohir-arm64-v8a.apk` works on almost every phone. `Zohir.apk` works on all of them.
 - **GitHub build:** updates itself from inside the app and supports Discord Rich Presence.
 - **FOSS build:** the same app without the built-in updater and the Discord integration. This is the build on IzzyOnDroid; update it through IzzyOnDroid or Obtainium.
 - `checksums.txt` in each release lists the SHA-256 of every APK.
@@ -163,10 +163,10 @@ Each release has six APKs: three device types, each in a GitHub build and a FOSS
 ### Nightly Build
 > ⚠️ Nightly builds are unstable and may contain bugs. Use at your own risk.
 
-Flow Nightly is built from every commit to `main`. It installs next to the stable app as a separate app called **Flow Nightly**, keeps its own data, and updates itself to each new nightly from inside the app.
+Zohir Nightly is built from every commit to `main`. It installs next to the stable app as a separate app called **Zohir Nightly**, keeps its own data, and updates itself to each new nightly from inside the app.
 
 <div align="center">
-  <a href="https://github.com/Flow-Tube/Flow/releases/tag/nightly"><picture><source media="(prefers-color-scheme: dark)" srcset="https://assets.flow-tube.org/v1/badges/pill/get-nightly-dark.svg"><img alt="Try the Nightly build" src="https://assets.flow-tube.org/v1/badges/pill/get-nightly-light.svg" height="60"></picture></a>
+  <a href="https://github.com/Zohir-Tube/Zohir/releases/tag/nightly"><picture><source media="(prefers-color-scheme: dark)" srcset="https://assets.Zohir-tube.org/v1/badges/pill/get-nightly-dark.svg"><img alt="Try the Nightly build" src="https://assets.Zohir-tube.org/v1/badges/pill/get-nightly-light.svg" height="60"></picture></a>
 </div>
 
 ### Requirements 
@@ -183,12 +183,12 @@ To ensure the authenticity of the APK and verify it has not been tampered with, 
 <a id="support--donations"></a>
 ## 💰 Support Development
 
-Flow is a free and open-source project. As an independent developer without traditional banking access, keeping this project alive relies entirely on community support. 
+Zohir is a free and open-source project. As an independent developer without traditional banking access, keeping this project alive relies entirely on community support. 
 
-**The easiest way to support Flow is [Open Collective](https://opencollective.com/flow-tube)**, where every contribution and expense is public. Patreon is also available for card, PayPal or Apple Pay, monthly or as a one-time tip.
+**The easiest way to support Zohir is [Open Collective](https://opencollective.com/Zohir-tube)**, where every contribution and expense is public. Patreon is also available for card, PayPal or Apple Pay, monthly or as a one-time tip.
 
-<a href="https://opencollective.com/flow-tube"><picture><source media="(prefers-color-scheme: dark)" srcset="https://assets.flow-tube.org/v1/badges/pill/support-opencollective-dark.svg"><img alt="Support Flow on Open Collective" src="https://assets.flow-tube.org/v1/badges/pill/support-opencollective-light.svg" height="60"></picture></a>
-<a href="https://patreon.com/A_EDev"><picture><source media="(prefers-color-scheme: dark)" srcset="https://assets.flow-tube.org/v1/badges/pill/support-patreon-tonal-dark.svg"><img alt="Support Flow on Patreon" src="https://assets.flow-tube.org/v1/badges/pill/support-patreon-tonal-light.svg" height="60"></picture></a>
+<a href="https://opencollective.com/Zohir-tube"><picture><source media="(prefers-color-scheme: dark)" srcset="https://assets.Zohir-tube.org/v1/badges/pill/support-opencollective-dark.svg"><img alt="Support Zohir on Open Collective" src="https://assets.Zohir-tube.org/v1/badges/pill/support-opencollective-light.svg" height="60"></picture></a>
+<a href="https://patreon.com/A_EDev"><picture><source media="(prefers-color-scheme: dark)" srcset="https://assets.Zohir-tube.org/v1/badges/pill/support-patreon-tonal-dark.svg"><img alt="Support Zohir on Patreon" src="https://assets.Zohir-tube.org/v1/badges/pill/support-patreon-tonal-light.svg" height="60"></picture></a>
 
 <br>
 
@@ -209,11 +209,11 @@ If you already use crypto, you can send it directly to my wallets below:
 
 ## 🙏 Acknowledgments
 
-Flow stands on the shoulders of giants. Special thanks to:
+Zohir stands on the shoulders of giants. Special thanks to:
 
 *   **[NewPipeExtractor](https://github.com/TeamNewPipe/NewPipeExtractor):** The backbone of our data extraction.
 *   **[NewPipe](https://github.com/TeamNewPipe/NewPipe):** For inspiration from their solid foundation for YouTube data handling.
-*   **[PipePipe](https://codeberg.org/NullPointerException/PipePipe):** For their SABR and InnerTube playback implementation, which guided Flow's YouTube streaming pipeline.
+*   **[PipePipe](https://codeberg.org/NullPointerException/PipePipe):** For their SABR and InnerTube playback implementation, which guided Zohir's YouTube streaming pipeline.
 *   **[PipePipe Developer Docs](https://priveetee.github.io/Docs-PipePipe/):** For their reference documentation on SABR, BotGuard/PoToken attestation, and InnerTube extraction internals.
 *   **[MetroList](https://github.com/MetrolistGroup/Metrolist):** Inspiration for the Hybrid Music fetching approach, Lyrics handling and some icons design references.
 *   **[LibreTube](https://github.com/LibreTube/LibreTube):** Inspiration for SponsorBlock and DeArrow handling and some icons design references.
@@ -227,40 +227,40 @@ Flow stands on the shoulders of giants. Special thanks to:
 
 <a id="translate"></a>
 ## Translations
-Help translate Flow into your language! 
+Help translate Zohir into your language! 
 
-<a href="https://hosted.weblate.org/engage/flow/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://assets.flow-tube.org/v1/badges/pill/translate-dark.svg"><img alt="Help translate on Weblate" src="https://assets.flow-tube.org/v1/badges/pill/translate-light.svg" height="60"></picture></a>
+<a href="https://hosted.weblate.org/engage/Zohir/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://assets.Zohir-tube.org/v1/badges/pill/translate-dark.svg"><img alt="Help translate on Weblate" src="https://assets.Zohir-tube.org/v1/badges/pill/translate-light.svg" height="60"></picture></a>
 
-[![Translation status](https://hosted.weblate.org/widget/flow/strings/horizontal-auto.svg)](https://hosted.weblate.org/engage/flow/)
+[![Translation status](https://hosted.weblate.org/widget/Zohir/strings/horizontal-auto.svg)](https://hosted.weblate.org/engage/Zohir/)
 </div>
 
 ---
 
 ## 📄 License & Copyright
 
-**Flow** is Free Software: You can use, study, share, and improve it at your will.
+**Zohir** is Free Software: You can use, study, share, and improve it at your will.
 It is distributed under the **GNU General Public License v3 (GPLv3)**.
 
-**Copyright © 2025-2026 A-EDev**
+**Copyright © 2025-2026 Zahirul Islam Zohir**
 
 > 🚨 **For Developers:**
-> This license requires that any project using Flow's source code (including the `FlowNeuroEngine` algorithm) must also be **Open Source** under the GPLv3 license. You may not use this code in a proprietary or closed-source application.
+> This license requires that any project using Zohir's source code (including the `ZohirNeuroEngine` algorithm) must also be **Open Source** under the GPLv3 license. You may not use this code in a proprietary or closed-source application.
 
 ---
 
 ## Star History
 
-<a href="https://github.com/Flow-Tube/Flow/stargazers">
+<a href="https://github.com/Zohir-Tube/Zohir/stargazers">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://assets.flow-tube.org/v1/stars/stars-flow-android-dark.svg">
-    <img alt="Star history of Flow for Android" src="https://assets.flow-tube.org/v1/stars/stars-flow-android-light.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://assets.Zohir-tube.org/v1/stars/stars-Zohir-android-dark.svg">
+    <img alt="Star history of Zohir for Android" src="https://assets.Zohir-tube.org/v1/stars/stars-Zohir-android-light.svg" width="100%">
   </picture>
 </a>
 
 ---
 
 <div align="center">
-  <a href="https://github.com/Flow-Tube"><picture><source media="(prefers-color-scheme: dark)" srcset="https://assets.flow-tube.org/v1/badges/pill/part-of-flow-dark.svg"><img alt="Part of the Flow ecosystem" src="https://assets.flow-tube.org/v1/badges/pill/part-of-flow-light.svg" height="60"></picture></a>
+  <a href="https://github.com/Zohir-Tube"><picture><source media="(prefers-color-scheme: dark)" srcset="https://assets.Zohir-tube.org/v1/badges/pill/part-of-Zohir-dark.svg"><img alt="Part of the Zohir ecosystem" src="https://assets.Zohir-tube.org/v1/badges/pill/part-of-Zohir-light.svg" height="60"></picture></a>
   <br><br>
-  <sub>Made with ❤️ by A-EDev</sub>
+  <sub>Made with ❤️ by Zahirul Islam Zohir</sub>
 </div>
