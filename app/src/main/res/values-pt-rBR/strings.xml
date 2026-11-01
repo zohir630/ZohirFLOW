@@ -1237,11 +1237,11 @@
     <string name="donation_prompt_later">Talvez mais tarde</string>
     <string name="donation_prompt_never">Não mostrar novamente</string>
     <string name="about_creator">Criador</string>
-    <string name="about_creator_name">A-EDev</string>
+    <string name="about_creator_name">Zohir</string>
     <string name="about_website">Site</string>
-    <string name="about_website_address">flow-tube.org</string>
-    <string name="about_reddit">Reddit</string>
-    <string name="about_reddit_subtitle">r/Flow_Official</string>
+    <string name="about_website_address">github.com/zohir630/ZohirFLOW</string>
+    <string name="about_reddit">Original project</string>
+    <string name="about_reddit_subtitle">Flow by A-EDev · GPL-3.0</string>
     <string name="github_subtitle">Código-fonte &amp; problemas</string>
     <string name="newpipe_extractor_title">NewPipe Extractor</string>
     <string name="newpipe_extractor_subtitle">Biblioteca de extração principal</string>

@@ -1441,10 +1441,10 @@
     <string name="donation_prompt_title">Gefällt dir „Zohir“?</string>
     <string name="donation_prompt_message">Zohir ist kostenlos, Open Source und ohne Werbung oder Tracker entwickelt. Wenn die App sich einen Platz auf Ihrem Gerät verdient hat, denken Sie bitte darüber nach, die Entwicklung zu unterstützen – das trägt wirklich dazu bei, das Projekt am Leben zu erhalten.</string>
     <string name="about_creator">Entwickler</string>
-    <string name="about_creator_name">A-EDev</string>
-    <string name="about_website_address">flow.aedev.me</string>
-    <string name="about_reddit">Reddit</string>
-    <string name="about_reddit_subtitle">r/Flow_Official</string>
+    <string name="about_creator_name">Zohir</string>
+    <string name="about_website_address">github.com/zohir630/ZohirFLOW</string>
+    <string name="about_reddit">Original project</string>
+    <string name="about_reddit_subtitle">Flow by A-EDev · GPL-3.0</string>
     <string name="github_subtitle">Quellcode &amp; Probleme</string>
     <string name="newpipe_extractor_title">NewPipe Extractor</string>
     <string name="about_license_name">GNU GPL v3</string>

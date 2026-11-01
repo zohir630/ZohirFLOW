@@ -610,7 +610,7 @@ fun FlowApp(
         UpdateLaunchEffect(needsOnboarding = needsOnboarding, onOpenUpdate = { navController.navigate(UPDATE_ROUTE) })
 
         DonationPromptHost(
-            enabled = needsOnboarding == false && !isInPipMode && !playerVisible,
+            enabled = false,
             onNavigateToDonations = { navController.navigate("donations") },
         )
     }

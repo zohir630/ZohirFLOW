@@ -1928,7 +1928,7 @@
     <string name="player_settings_subtitle_language_none_desc">使用视频提供的第一个字幕轨道</string>
     <string name="player_settings_auto_enable_subtitles">自动打开字幕</string>
     <string name="player_settings_auto_enable_subtitles_subtitle">用你偏好的语言开启所有视频的字幕</string>
-    <string name="about_reddit">Reddit</string>
+    <string name="about_reddit">Original project</string>
     <string name="about_license_name">GNU GPL v3</string>
     <string name="equalizer">均衡器</string>
     <string name="action_save_preset">保存预设</string>

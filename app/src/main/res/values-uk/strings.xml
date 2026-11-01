@@ -1981,10 +1981,10 @@
     <string name="ui_downloading">Завантаження</string>
     <string name="ui_in_library">В бібліотеці</string>
     <string name="ui_flow_logo">Логотип Zohir</string>
-    <string name="about_creator_name">A-EDev</string>
-    <string name="about_website_address">flow-tube.org</string>
-    <string name="about_reddit">Reddit</string>
-    <string name="about_reddit_subtitle">r/Flow_Official</string>
+    <string name="about_creator_name">Zohir</string>
+    <string name="about_website_address">github.com/zohir630/ZohirFLOW</string>
+    <string name="about_reddit">Original project</string>
+    <string name="about_reddit_subtitle">Flow by A-EDev · GPL-3.0</string>
     <string name="about_license_name">GNU GPL v3</string>
     <string name="discord_error_enable_before_connect">Увімкніть Розширену активність у Discord перед прив’язуванням облікового запису.</string>
     <string name="discord_error_unavailable">Розширена активність у Discord недоступна у цій збірці.</string>

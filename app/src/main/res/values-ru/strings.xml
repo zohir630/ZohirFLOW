@@ -1916,10 +1916,10 @@
     <string name="content_settings_restored_music_mini_player_subtitle">Покажите свой последний музыкальный сеанс после его восстановления</string>
     <string name="content_settings_hide_unplayable_subscriptions_title">Скрывать неподдерживаемые видео из подписок</string>
     <string name="content_settings_hide_unplayable_subscriptions_subtitle">Скрыть частные, удаленные и ограниченные видео, которые не воспроизводятся</string>
-    <string name="about_creator_name">A-EDev</string>
-    <string name="about_website_address">flow-tube.org</string>
-    <string name="about_reddit">Reddit</string>
-    <string name="about_reddit_subtitle">r/Flow_Official</string>
+    <string name="about_creator_name">Zohir</string>
+    <string name="about_website_address">github.com/zohir630/ZohirFLOW</string>
+    <string name="about_reddit">Original project</string>
+    <string name="about_reddit_subtitle">Flow by A-EDev · GPL-3.0</string>
     <string name="about_license_name">GNU GPL v3</string>
     <string name="equalizer">Эквалайзер</string>
     <string name="action_save_preset">Сохранить пресет</string>

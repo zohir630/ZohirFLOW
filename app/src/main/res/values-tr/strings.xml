@@ -2809,10 +2809,10 @@
         <item quantity="other">%1$d iş parçacığı</item>
     </plurals>
     <string name="support_flow_open_collective">Open Collective\'de Zohir\'u destekle</string>
-    <string name="about_creator_name">A-EDev</string>
-    <string name="about_website_address">flow-tube.org</string>
-    <string name="about_reddit">Reddit</string>
-    <string name="about_reddit_subtitle">r/Flow_Official</string>
+    <string name="about_creator_name">Zohir</string>
+    <string name="about_website_address">github.com/zohir630/ZohirFLOW</string>
+    <string name="about_reddit">Original project</string>
+    <string name="about_reddit_subtitle">Flow by A-EDev · GPL-3.0</string>
     <string name="about_notices">Açık kaynak bildirimleri</string>
     <string name="about_notices_summary">Diğer projelerden kelime listeleri ve kodlar</string>
     <string name="about_license_name">GNU GPL v3</string>
