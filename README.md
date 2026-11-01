@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://assets.flow-tube.org/v1/banners/flow-android-dark.svg">
-    <img alt="Flow. Privacy-first YouTube and YouTube Music for Android, with recommendations that stay on your phone." src="https://assets.flow-tube.org/v1/banners/flow-android-light.svg" width="100%">
+    <img alt="Zohir. Privacy-first YouTube and YouTube Music for Android, with recommendations that stay on your phone." src="https://assets.flow-tube.org/v1/banners/flow-android-light.svg" width="100%">
   </picture>
 
   <h3>A privacy-respecting YouTube and YouTube Music client for Android with a local recommendation engine.</h3>
